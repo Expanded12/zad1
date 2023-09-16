@@ -25,5 +25,5 @@ fun countChar() {
     } else {
         itogStr+=currentChar
     }
-    println("Результат подс   чета - $itogStr")
+    println("Результат подсчета - $itogStr")
 }
